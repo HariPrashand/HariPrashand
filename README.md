@@ -1,5 +1,5 @@
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://preview.redd.it/kt36kaysdj7a1.gif?width=498&format=mp4&s=e1e3a6c683d73561f0af408393a6a05683ed4a46)
 
 <h1 align="center">Hi 👋, I'm Hari Prashand</h1>
 <h3 align="center">A passionate Data Scientist and Machine Learning Enthusiast from India</h3>
