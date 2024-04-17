@@ -1,3 +1,6 @@
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 <h1 align="center">Hi 👋, I'm Hari Prashand</h1>
 <h3 align="center">A passionate Data Scientist and Machine Learning Enthusiast from India</h3>
 
