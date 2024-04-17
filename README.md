@@ -1,5 +1,5 @@
 
-![Alt Text](https://github.com/HariPrashand/HariPrashand/assets/115578421/f770c043-8e56-4d82-9e8e-a97694da59f9)
+![Alt Text](./kt36kaysdj7a1.mp4)
 
 <h1 align="center">Hi 👋, I'm Hari Prashand</h1>
 <h3 align="center">A passionate Data Scientist and Machine Learning Enthusiast from India</h3>
