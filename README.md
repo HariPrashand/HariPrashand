@@ -1,6 +1,5 @@
- <center><img src="https://github.com/HariPrashand/HariPrashand/assets/115578421/18dc4228-c545-479d-b212-42a21be4a8e7" alt="centered image" height="598" width="398"></center> 
+ <center><img src="https://github.com/HariPrashand/HariPrashand/assets/115578421/18dc4228-c545-479d-b212-42a21be4a8e7" alt="centered image" ></center> 
 
-<center><img src="https://github.com/HariPrashand/HariPrashand/assets/115578421/18dc4228-c545-479d-b212-42a21be4a8e7" ></center>
 
 <h1 align="center">Hi 👋, I'm Hari Prashand</h1>
 <h3 align="center">A passionate Data Scientist and Machine Learning Enthusiast from India</h3>
