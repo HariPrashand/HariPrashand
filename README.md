@@ -12,7 +12,7 @@
 <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-181825?style=for-the-badge&logo=linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/hari-prashand/)](https://www.linkedin.com/in/hari-prashand/)
-[![Gmail Badge](https://img.shields.io/badge/gmail-181825?style=for-the-badge&logo=gmail&logoColor=EA4335&link=mailto:harikeshav76@gmail.com)]()
+[![Gmail Badge](https://img.shields.io/badge/gmail-181825?style=for-the-badge&logo=gmail&logoColor=EA4335&link=mailto:harikeshav76@gmail.com)](mailto:harikeshav76@gmail.com)
 
 
 ## Technology Stack:
